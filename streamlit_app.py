@@ -13,8 +13,8 @@ st.info('Data professional with a passion for solving meaningful information coo
 
 icon_size = 20
 
+st_button('', 'https://drive.google.com/file/d/1EmPEP61XsgmHJue6-D-3niUKbOVH_Jj3/view', 'View my Resume', icon_size)
 st_button('', 'https://jdellape-streamlit-portfolio-app-1ay2ev.streamlitapp.com/', 'View my Streamlit Projects', icon_size)
 st_button('', 'https://github.com/jdellape', 'View my GitHub', icon_size)
-st_button('', 'https://drive.google.com/file/d/1nELjAIJFVcW-PGYB-yCiscOAUi14_smI/view', 'View my Resume', icon_size)
 st_button('linkedin', 'https://www.linkedin.com/in/john-dellape/', 'Find me on LinkedIn', icon_size)
 st_button('twitter', 'https://twitter.com/JohnDellape', 'Find me on Twitter', icon_size)
